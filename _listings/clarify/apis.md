@@ -6,8 +6,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3503-clari
 x-kinRank: "9"
 x-alexaRank: "2476786"
 tags: Clarify
-created: "2018-06-20"
-modified: "2018-06-20"
+created: "2018-06-25"
+modified: "2018-06-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/clarify/master/_listings/clarify/apis.md
 specificationVersion: "0.14"
 apis:
